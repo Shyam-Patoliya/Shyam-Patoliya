@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyam-patoliya&label=Profile%20views&color=0e75b6&style=flat" alt="shyam-patoliya" /> </p>
 
-- 🔭 I’m currently studying **C++ and JS**
+- 🔭 I’m currently studying **ReactJS and MERN stack**
 
 - 🌱 I’m currently learning **CSE at SIT Pune**
 
 - 👨‍💻 All of my projects are available at [GIT HUB](GIT HUB)
 
-- 💬 Ask me about **Pyhton or C**
+- 💬 Ask me about **SQL, Python and C/C++**
 
 - 📫 How to reach me **shyampatoliya2004@gmail.com**
 
